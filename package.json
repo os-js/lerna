@@ -1,0 +1,25 @@
+{
+  "name": "@osjs/lerna",
+  "version": "0.0.1",
+  "description": "OS.js v3 Lerna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/os-js/lerna.git"
+  },
+  "keywords": [
+    "osjs"
+  ],
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/os-js/lerna/issues"
+  },
+  "homepage": "https://github.com/os-js/lerna#readme",
+  "dependencies": {
+    "lerna": "^3.15.0"
+  }
+}

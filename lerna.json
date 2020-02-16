@@ -1,7 +1,7 @@
 {
   "packages": [
     "packages/*",
-    "distros/*"
+    "distros/development"
   ],
   "version": "independent"
 }

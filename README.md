@@ -30,7 +30,7 @@ npx lerna bootstrap
 
 > **NOTE** The initial lerna bootstrap might take a while and consume a lot of disk space.
 
-The `distros/official` is now set up to use all local npm packages.
+The `distros/development` is now set up to use all local npm packages.
 
 From here follow the lerna documentation.
 

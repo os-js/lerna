@@ -4,6 +4,10 @@ OSJS_URI=git@github.com:os-js
 OSJS_REPOS=(
   # Misc
   "eslint-config"
+  "stylelint-config"
+
+  # Meta
+  "osjs-dev-meta"
 
   # Core
   "osjs-client"
@@ -74,4 +78,4 @@ for r in ${OSJS_REPOS[*]}; do
   git clone $url $dest
 done
 
-git clone "${OSJS_URI}/OS.js" "distros/official"
+git clone "${OSJS_URI}/OS.js" "distros/development"

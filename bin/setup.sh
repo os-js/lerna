@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-OSJS_URI=git@github.com:os-js
+OSJS_URI=https://github.com/os-js
 
 OSJS_REPOS=(
   # Misc
